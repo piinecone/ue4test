@@ -1,0 +1,5 @@
+*.uproject
+*.umpa
+*.uasset
+Saved/
+Intermediate/
