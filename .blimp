@@ -9,7 +9,6 @@
 # For example:
 # *.big_file_extension
 # *.some_other_big_file_extension
-
-*.uproject
 *.umap
 *.uasset
+*.uproject
