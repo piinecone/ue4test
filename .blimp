@@ -11,5 +11,5 @@
 # *.some_other_big_file_extension
 
 *.uproject
-*.umpa
+*.umap
 *.uasset
